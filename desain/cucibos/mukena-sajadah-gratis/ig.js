@@ -29,7 +29,7 @@ module.exports = function (res = {}) {
          x="22.59635"
          y="15.852436"><tspan
    style="fill:#000000"
-   id="tspan6513">085655668770</tspan> (Febri)</tspan></text>
+   id="tspan6513">${res.wa}</tspan> (${res.nama})</tspan></text>
     <path
        id="path6"
        class="st0"
