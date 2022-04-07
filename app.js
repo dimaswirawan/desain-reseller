@@ -9,7 +9,7 @@ var generate = require('./app/generate.js');
 	// console.log(reseller);
 	let resource = {
 		brand: "cucibos",
-		template: "promo-member-baru",
+		template: "mukena-sajadah-gratis",
 		reseller: reseller
 	}
 	var build = await generate(resource);
